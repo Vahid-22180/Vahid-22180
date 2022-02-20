@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vahid Morshedi</h1>
 <h3 align="center">I'm Java developer from Iran.</h3>
 
-- 🌱 I’m currently learning **Jakarta ,Linux, etc.**
+- 🌱 I’m currently learning **JAKARTA EE**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vahid-22180](https://github.com/Vahid-22180)
 
-- 💬 Ask me about **java , application server, spring, Oracle data base**
+- 💬 Ask me about **java, spring, Oracle data base**
 
 - 📫 How to reach me **vahidmorshed1394@gmail.com**
 
