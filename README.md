@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vahid Morshedi</h1>
 <h3 align="center">I'm Java developer from Iran.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vahid-22180&label=Profile%20views&color=0e75b6&style=flat" alt="Vahid-22180" /> </p>
+
 - 🌱 I’m currently learning **JAKARTA EE**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vahid-22180](https://github.com/Vahid-22180)
